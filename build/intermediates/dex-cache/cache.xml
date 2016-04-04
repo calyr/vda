@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/calyr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-6ae2e5307223aa6bb23484f75b93ac9166366412.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-33843fa7459881dccde40371c2ab93161294d159.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-74dddc82d459a5489029ee3539d9cda15f28026d.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-db9b69f2266f4aedcb13fceec75e80392b2701f5.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-ee7513c4c3298fcbe8db5d8878284451768ff6d2.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-6504f501ea18d530c22e00dfe053ef0d78490e12.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-f331dcac11b367b7c04eb125089b8240e2871782.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-0b017d7604b212bf5f22e9aabb25d5f7afc71e2a.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-1f6f3ffcf249d6177899480eda72f50840b9a30c.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-d12db7db554c743c11b986f2b4665a6404d6a98b.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-4ad2fa72cc68039b0ab425f468e5d2023fc82fa0.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-eec3dacb00fa7bd0431b508cbb789a740682924c.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-16b5aeea488a3f76da1c537b2b5f54d058a2106a.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-6c51924974c205cbe207a480a6163bca9b1cf488.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-95a28810b43b8a6816bab2c8168bbda83148d1e7.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-526214f06c41810007eb110cd55dfd0d2c475d09.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-d065927c87452a4df92124d20309fc01a21c23e9.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-60ce9a188a208b7b759027822e290a6311148e3d.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-50b7b3b83d5b0d378350ff7fd70a420bb685d37d.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-49e55aa5fb5cc707976fbf82a8cacbe40f016416.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-fee45f32a4858270d4913d63c3499e8dcd980549.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-3bcb745f75081002d1d4f6b450b48307596bb86c.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-53e38af98d4131d621f7296967a1a232e171dfcc.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-de6da0c7797463ea4000bd7f7499dedc27344bb9.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-4db3f6b20866a62954cc123530ca5c360fc40b2c.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-2c619c0cc25380815ea11c588405769cc27032e4.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-a231b5dd0423f6ba21e7c9dd06a7bcd19c7fda86.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-4abe47f08f669d0b1a1a280e3b792b15202c158d.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-b4972cc05708973bc0ebbd5067d7cb0475eb572d.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-1f34016d6917d55efb800bf5d7d69097e56f8e44.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-8436e8855b351ffd9bbcf3bc2442096e85285626.jar" />
+    </item>
+    <item
+        jar="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/calyr/Documents/Movil/Android/Myapp/app/build/intermediates/pre-dexed/debug/classes-29fe82cf335d7bd619debbdbd09fcad8ce6e9e7a.jar" />
+    </item>
+
+</items>

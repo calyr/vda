@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/gaCardView"
+        card_view:cardCornerRadius="10dp"
+        card_view:cardBackgroundColor="#ffffff"
+        android:elevation="10dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="0dp"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="titulo"
+                android:id="@+id/oylTitulo"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:textAlignment="center"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="ARTICULO PRIMERO"
+                android:textSize="14dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="0dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="5dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="5dp"
+                android:text="Todos los pobladores de sacaba a principios del mes de noviembre de cada año deberán engalanar las fachadas de sus viviendas procediendo a la restauración y mejoramiento del aspecto exterior y la configuración arquitectónica de las mismas, sobre todo aquellas viviendas y edificaciones que se encuentran situadas en las vías principales que constituyen escenario para el desarrollo de la entrada de la festividad de la “Virgen del Amparo”, fomentando de esta manera las obras de restauración, conservación y mantenimiento en procura de mejorar la imagen de nuestra casa principal nuestra querida “Sacaba”."
+                android:layout_margin="5dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="ARTICULO SEGUNDO"
+                android:textSize="14dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="0dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="5dp"
+                android:text="Se establece como ruta tradicional para el desarrollo de la entrada de la Festividad de la Virgen del Amparo, las vías que comprenden el siguiente recorrido: Partiendo de la Capilla ubicada en la Av. Circunvalación y Calle Bolívar hasta llegar a la Calle Ayacucho, doblando al Sud por la Calle Demetrio Pérez, subiendo por la Av. Villazón, continuando por la calle Bertho Nicoli (Plazuela del Estudiante), hasta llegar a la Plaza 6 de Agosto entrando por la acera Oeste, continuando por la acera norte y acera este (frontis de la casa consistorial), para seguir por la calle Coronel Sánchez, bajando por la calle Ingavi, doblando la plazuela de granos lado Este, subiendo por la calle Porvenir y finalmente doblando al Sud por la Calle Coronel Sánchez, como punto de desconcentración."
+                android:layout_margin="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="ARTICULO TERCERO"
+                android:textSize="14dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="0dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="5dp"
+                android:text="Queda terminantemente prohibido el estacionamiento de vehículos públicos y privados durante la Entrada Folklórica de la Festividad de la Virgen del Amparo, en las calles descritas en el artículo segundo de la presente Ordenanza, que comprenden la ruta tradicional para el desarrollo de la festividad."
+                android:layout_margin="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="ARTICULO CUARTO"
+                android:textSize="14dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="0dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="5dp"
+                android:text="Se abroga la Ordenanza Municipal No. 084/2009 de 29 de octubre de 2009."
+                android:layout_margin="5dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="ARTICULO QUINTO"
+                android:textSize="14dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="0dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="5dp"
+                android:text="El Ejecutivo Municipal a través de la Jefatura de Seguridad Ciudadana, Intendencia Municipal, Jefatura de Tráfico y vialidad y las Unidades que correspondan, en coordinación con la Policía Boliviana queda encargado del fiel y estricto cumplimiento de la presente Ordenanza Municipal."
+                android:layout_margin="5dp" />
+
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="10dp"
+        card_view:cardBackgroundColor="#ffffff"
+        android:elevation="10dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="0dp"
+            android:orientation="vertical"
+            >
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="LEY Nº 4116\nLEY DE 25 DE SEPTIEMBRE DE 2009\nEVO MORALES AYMA\n
+PRESIDENTE DEL ESTADO PLURINACIONAL DE BOLIVIA
+"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Por cuanto, el Honorable Congreso Nacional, ha sancionado la siguiente Ley:"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:gravity="center_horizontal"
+                android:textSize="14dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="EL HONORABLE CONGRESO NACIONAL,\nDECRETA:
+"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:textSize="14dp"
+                android:textIsSelectable="true"
+                android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="5dp"
+                android:text="ARTÍCULO 1.- Declárase Patrimonio Cultural, la celebración de la Festividad Religiosa Patronal \''Virgen del Amparo\'', que se lleva a cabo en el Municipio de Sacaba, Capital de la Provincia Chapare del Departamento de Cochabamba, cada tercer domingo de noviembre (movible) en la localidad de Sacaba.\n\nARTÍCULO 2.- El Ejecutivo a través de la Prefectura del Departamento de Cochabamba y el Municipio de Sacaba, deberán difundir y apoyar económicamente la celebración de la Festividad Religiosa que ha sido declarada Patrimonio Cultural en el artículo 1 de la presente Ley."
+                android:layout_margin="5dp" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="10dp"
+        card_view:cardBackgroundColor="#ffffff"
+        android:elevation="10dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="0dp"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="LEY MUNICIPAL 037/2015"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"
+                android:textAlignment="center"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="ARTICULO 4.- (PROHIBICIÓN Y SANCIÓN)"
+                android:textSize="14dp"
+                android:paddingLeft="10dp"
+                android:paddingTop="10dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="0dp" />
+            <LinearLayout android:layout_height="wrap_content" android:layout_width="match_parent" android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="5dp"
+                    android:text="I."
+                    android:layout_margin="5dp" />
+             <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingTop="5dp"
+                android:paddingRight="10dp"
+                android:paddingBottom="5dp"
+                android:text="Se prohíbe la celebración de festividades, entradas folclóricas, procesiones, eventos culturales, desfiles cívicos, eventos deportivos, ferias comerciales, ferias educativas y campañas políticas que impliquen el cierre y/o uso temporal, parcial y total de las vías interdepartamentales, avenidas y calles del Municipio de Sacaba, con excepción de las que cuenten con autorización emitida por autoridad competente municipal y/o departamental."
+                android:layout_margin="5dp" />
+            </LinearLayout>
+
+            <LinearLayout android:layout_height="wrap_content" android:layout_width="match_parent" android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="5dp"
+                    android:text="II."
+                    android:layout_margin="5dp" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="5dp"
+                    android:text="El incumplimiento de lo dispuesto en el parágrafo precedente será sancionado con la imposición de multa pecuniaria a los organizadores y participantes, en la cuantía a ser establecida mediante reglamentación a la presente Ley Municipal."
+                    android:layout_margin="5dp" />
+            </LinearLayout>
+            <LinearLayout android:layout_height="wrap_content" android:layout_width="match_parent" android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="5dp"
+                    android:text="III."
+                    android:layout_margin="5dp" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="5dp"
+                    android:text="Lo dispuesto en el parágrafo precedente, no excluye la responsabilidad civil y/o penal emergente de los responsables del evento que impliquen el cierre y/o uso temporal, parcial y total de las vías interdepartamentales, avenidas y calles del Municipio de Sacaba."
+                    android:layout_margin="5dp" />
+            </LinearLayout>
+
+
+
+
+
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

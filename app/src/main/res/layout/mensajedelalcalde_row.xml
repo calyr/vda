@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:src="@drawable/alcalde2"
+        android:scaleType="center"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"/>
+
+    <TextView
+        android:layout_below="@id/mdatexto"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:gravity="left"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:text="Hermanas y hermanos:\n\nHoy nos disponemos a celebrar y disfrutar nuestra festividad religiosa en honor a la Virgen María del Amparo, patrona de Sacaba.\n\nEn estos días entrañables nos reuniremos con familiares y amigos, donde juntos fortaleceremos los lazos de unión.\nLa familia es la esencia de amor y unidad de padres, hijos, hermanos y parientes que luchan día a día para salir adelante.\nJuntos debemos ir al encuentro de la Virgen María confiados que con Ella se iluminará nuestro espíritu, llenándonos de sabiduría y humildad.\n\nLa fe y la solidaridad de todos los que habitan esta hermosa tierra mantendrán viva y fuerte nuestras tradiciones y costumbres culturales para hacer de Sacaba un municipio reconocido por su valor y devoción religiosa.\n\nLa diversidad de actos programados: peregrinación, entrada folklórica, fiesta central, calvario y otras actividades religiosas, nos permitirán salir de la cotidianidad para entrar en un ambiente de reflexión y paz, conviviendo en armonía, sin ningún exceso.\n\nQuiero agradecer a Dios y a la Virgen del Amparo, por haberme brindado la oportunidad de dirigirme a ustedes, con la firme convicción de seguir forjando el progreso de nuestra ciudad para brindar mejores días a las nuevas generaciones."/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView4"
+            android:src="@drawable/firma"
+            android:layout_gravity="center" />
+    </LinearLayout>
+
+</LinearLayout>
